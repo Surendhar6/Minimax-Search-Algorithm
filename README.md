@@ -266,9 +266,15 @@ if __name__ == "__main__":
 ```
 
 <h2>Sample Input and Output</h2>
-![Op1-ai6](https://github.com/user-attachments/assets/47bb676c-37ce-4237-af03-5649a261d6bd)
+![image](https://github.com/user-attachments/assets/72eadfab-230a-4542-ab84-1148a0c7a5e7)
 
+![image](https://github.com/user-attachments/assets/eb24b33d-7915-4c87-86b1-8cc34e9c1939)
 
+![image](https://github.com/user-attachments/assets/850cdc7d-71cf-4067-8b49-09d80c929359)
+
+![image](https://github.com/user-attachments/assets/effd6168-52f4-46c3-9e77-fc4c8adc65ff)
+
+![image](https://github.com/user-attachments/assets/a766fa34-cceb-4090-9d41-1ecedffab854)
 
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
